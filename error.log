@@ -1,0 +1,20 @@
+[2021-09-27 20:52:38 +0000] [13073] [INFO] Starting gunicorn 20.1.0
+[2021-09-27 20:52:38 +0000] [13073] [INFO] Listening at: http://0.0.0.0:5000 (13073)
+[2021-09-27 20:52:38 +0000] [13073] [INFO] Using worker: sync
+[2021-09-27 20:52:38 +0000] [13075] [INFO] Booting worker with pid: 13075
+[2021-09-27 20:53:08 +0000] [13073] [INFO] Handling signal: int
+[2021-09-27 20:53:08 +0000] [13075] [INFO] Worker exiting (pid: 13075)
+[2021-09-27 20:53:08 +0000] [13073] [INFO] Shutting down: Master
+[2023-01-20 21:08:14 +0000] [2477] [INFO] Starting gunicorn 20.1.0
+[2023-01-20 21:08:14 +0000] [2477] [INFO] Listening at: http://0.0.0.0:5000 (2477)
+[2023-01-20 21:08:14 +0000] [2477] [INFO] Using worker: sync
+[2023-01-20 21:08:14 +0000] [2479] [INFO] Booting worker with pid: 2479
+[2023-01-20 21:10:16 +0000] [2477] [CRITICAL] WORKER TIMEOUT (pid:2479)
+[2023-01-20 21:10:16 +0000] [2479] [INFO] Worker exiting (pid: 2479)
+[2023-01-20 21:10:16 +0000] [2545] [INFO] Booting worker with pid: 2545
+[2023-01-20 21:10:47 +0000] [2477] [CRITICAL] WORKER TIMEOUT (pid:2545)
+[2023-01-20 21:10:47 +0000] [2545] [INFO] Worker exiting (pid: 2545)
+[2023-01-20 21:10:47 +0000] [2609] [INFO] Booting worker with pid: 2609
+[2023-01-20 21:11:22 +0000] [2477] [INFO] Handling signal: int
+[2023-01-20 21:11:22 +0000] [2609] [INFO] Worker exiting (pid: 2609)
+[2023-01-20 21:11:22 +0000] [2477] [INFO] Shutting down: Master
